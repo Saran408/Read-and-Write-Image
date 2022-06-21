@@ -1,7 +1,7 @@
 ### EXP NO:01
 ### DATE:
 
-# READ AND WRITE AN IMAGE
+# <p align='center'> READ AND WRITE AN IMAGE</p>
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
