@@ -1,3 +1,6 @@
+### EXP NO:01
+### DATE:
+
 # READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
